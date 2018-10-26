@@ -3,7 +3,7 @@ A MATLAB Package for Natural Image Deconvolution
 
 ----------------------------------------------------------------
 Results:  
-![alt natural](https://github.com/mahdihosseini/1Shot-MaxPol/blob/master/raw%20images/image_4.tif)
+![alt natural](https://github.com/mahdihosseini/1Shot-MaxPol/blob/master/raw%20images/image_4.tif?raw=true)
 
 ----------------------------------------------------------------
 General purpose:  
