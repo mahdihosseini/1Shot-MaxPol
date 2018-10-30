@@ -36,7 +36,7 @@ Email: mahdi.hosseini@mail.utoronto.ca
 http://www.dsp.utoronto.ca/~mhosseini/  
 
 ----------------------------------------------------------------
-Citation:
+Citation:  
 @article{hosseini2018convolutional,  
   title={Convolutional Deblurring for Natural Imaging},  
   author={Hosseini, Mahdi S and Plataniotis, Konstantinos N},  
