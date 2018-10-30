@@ -37,4 +37,9 @@ http://www.dsp.utoronto.ca/~mhosseini/
 
 ----------------------------------------------------------------
 Citation:
-[arXive Bib]
+@article{hosseini2018convolutional,  
+  title={Convolutional Deblurring for Natural Imaging},  
+  author={Hosseini, Mahdi S and Plataniotis, Konstantinos N},  
+  journal={arXiv preprint arXiv:1810.10725},  
+  year={2018}  
+}
