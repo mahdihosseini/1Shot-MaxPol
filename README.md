@@ -1,5 +1,5 @@
 # 1Shot-MaxPol
-A MATLAB Package for Natural Image Deconvolution
+## A MATLAB Package for Natural Image Deconvolution
 
 ----------------------------------------------------------------
 ### General purpose
