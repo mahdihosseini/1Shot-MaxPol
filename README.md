@@ -6,6 +6,7 @@ A MATLAB Package for Natural Image Deconvolution
 You can use this source code to deconvolve naturally blurred images
 
 ### Demo Example
+--- Raw Image -------- Deblurred ---  
 ![RGB_Hyperspectral_raw_image_23](https://user-images.githubusercontent.com/7947948/61488237-b685ca80-a975-11e9-8ad5-1c3e7248b625.png) ![RGB_Hyperspectral_deblurred_image_23_maxpol](https://user-images.githubusercontent.com/7947948/61488248-bede0580-a975-11e9-8a0f-4926a2d490e4.png)
 
 ----------------------------------------------------------------
