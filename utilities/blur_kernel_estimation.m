@@ -16,8 +16,8 @@ load('maxpol_lpf.mat')
 
 %% calculate the image spectrum of images of original and degraded models
 n_bins = 13;
-[spect_scan_original, r_grid_bin] = spectrum_calculation_circular(image_scan_padded, n_bins);
-[spect_scan_scaled, ~] = spectrum_calculation_circular(image_scan_scaled, n_bins);
+[spect_scan_original, r_grid_bin] = radSpec(image_scan_padded, n_bins);
+[spect_scan_scaled, ~] = radSpec(image_scan_scaled, n_bins);
 
 %%
 switch model_type

@@ -26,16 +26,18 @@ image_scan_original = im2double(image_scan_original);
 
 %%
 significany = 0.5; % edge significany control (optional) default is 0.5
+tic;
 [deblurred_image] = OneShotMaxPol(image_scan_original, deblurring_kernel, ...
     model_type, alpha_estimate, c1_estimate, h_psf, significany);
+elapsed_time=toc;
 
 %%
 figure('rend','painters','pos', [50 , 300, 1500, 600]);
 subplot(1,2,1)
-imshow(image_scan_original)
+imshow(image_scan_original, 'border', 'tight')
 title('Natural Blurred Image')
 subplot(1,2,2)
-imshow(deblurred_image)
+imshow(deblurred_image, 'border', 'tight')
 title('1Shot-MaxPol Deblurring')
 
 %%
