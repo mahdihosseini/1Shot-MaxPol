@@ -32,7 +32,7 @@ Utility functions:
 ----------------------------------------------------------------  
 ### Published Paper
 Paper title: [Convolutional Deblurring for Natural Imaging]  
-Paper Download: [https://arxiv.org/abs/1810.10725]  (IEEE link commin soon!)
+Paper Download: [https://ieeexplore.ieee.org/abstract/document/8782833]  (IEEE link commin soon!)
 
 ----------------------------------------------------------------
 ### Author  
@@ -45,6 +45,6 @@ http://www.dsp.utoronto.ca/~mhosseini/
 @article{hosseini2018convolutional,  
   title={Convolutional Deblurring for Natural Imaging},  
   author={Hosseini, Mahdi S and Plataniotis, Konstantinos N},  
-  journal={accepted for publication in IEEE Transaction Image Processing},  
+  journal={IEEE Transactions on Image Processing},  
   year={2019}  
 }
