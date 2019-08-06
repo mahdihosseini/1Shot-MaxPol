@@ -32,7 +32,7 @@ Utility functions:
 ----------------------------------------------------------------  
 ### Published Paper
 Paper title: [Convolutional Deblurring for Natural Imaging]  
-Paper Download: [https://ieeexplore.ieee.org/abstract/document/8782833]  (IEEE link commin soon!)
+Paper Download: [https://ieeexplore.ieee.org/abstract/document/8782833]
 
 ----------------------------------------------------------------
 ### Author  
