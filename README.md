@@ -31,8 +31,9 @@ Utility functions:
 
 ----------------------------------------------------------------  
 ### Published Paper
-Paper title: [Convolutional Deblurring for Natural Imaging]  
-Paper Download: [https://ieeexplore.ieee.org/abstract/document/8782833]
+Hosseini, Mahdi S., and Konstantinos N. Plataniotis. "[Convolutional Deblurring for Natural Imaging](https://ieeexplore.ieee.org/abstract/document/8782833)." IEEE Transactions on Image Processing (2019).  
+
+You can also read the paper from the [arXiv link](https://arxiv.org/abs/1810.10725)
 
 ----------------------------------------------------------------
 ### Author  
