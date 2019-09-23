@@ -12,7 +12,7 @@ You can use this source code to deconvolve naturally blurred images
 ----------------------------------------------------------------
 ### Requirements
 - MATLAB R2015b (minimum)
-- MaxPol package should be installed (download from https://github.com/mahdihosseini/MaxPol)
+- [MaxPol package](https://github.com/mahdihosseini/MaxPol) should be installed
 
 ----------------------------------------------------------------
 ### MATLAB Codes
@@ -31,7 +31,7 @@ Utility functions:
 
 ----------------------------------------------------------------  
 ### Published Paper
-Hosseini, Mahdi S., and Konstantinos N. Plataniotis. "[Convolutional Deblurring for Natural Imaging](https://ieeexplore.ieee.org/abstract/document/8782833)." IEEE Transactions on Image Processing (2019).  
+*Mahdi S. Hosseini and Konstantinos N. Plataniotis "[Convolutional Deblurring for Natural Imaging](https://ieeexplore.ieee.org/abstract/document/8782833)," IEEE Transactions on Image Processing, 2019.* 
 
 You can also read the paper from the [arXiv link](https://arxiv.org/abs/1810.10725)
 
